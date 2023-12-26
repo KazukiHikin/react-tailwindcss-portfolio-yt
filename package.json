@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage":"https://kazukihikin.github.io/react-tailwindcss-portfolio-yt/",
+  "homepage":"https://kazukihikin.github.io/react-tailwindcss-portfolio-yt",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
