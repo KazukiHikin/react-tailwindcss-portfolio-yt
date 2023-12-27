@@ -6,7 +6,7 @@ import "./App.css";
 function App() {
   return (
     <>
-      {/* 意味のないコメントapp */}
+      {/* 意味のないコメントdone */}
       <header className="text-gray-500 border-b border-gray-200">
         <div className="flex container mx-auto p-5 flex-col md:flex-row items-center">
           <a href="#" className="font-medium text-gray-900 mb-4 md:md-0">
